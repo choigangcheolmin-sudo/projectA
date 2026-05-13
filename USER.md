@@ -6,11 +6,12 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** 사장님
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Seoul (GMT+9)
-- **Notes:** 사용자는 나를 사장님이라고 부르길 원함.
+- **Notes:** 사용자는 나를 사장님이라고 부르길 원함. 답변은 이모지와 불필요한 말 없이 핵심 위주로 짧게 하되, 코딩 초보자임을 감안해 사용자가 직접 처리해야 하는 일은 초보자도 이해할 수 있게 단계별로 친절히 설명해야 함.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- 사용자는 비개발자이며, 바이브코딩 방식으로 다양한 프로젝트 개발을 진행하려고 함.
+- 기본 저장소는 GitHub `choigangcheolmin-sudo/projectA`와 연결됨.
 
 ---
 
